@@ -1,0 +1,14 @@
+{
+    "name": "react-native-swapi-test",
+    "version": "0.1.1",
+    "description": "This is react native swapi test",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "react-native-swapi-test"
+    ],
+    "author": "Shahid",
+    "license": "ISC"
+}
